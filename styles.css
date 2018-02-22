@@ -1,0 +1,39 @@
+.box {
+  border: 0.5px solid grey;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: white;
+  font-family: 'Indie Flower', sans-serif;
+}
+
+.card {
+  width: 300px;
+  box-shadow: 5px 5px 5px black;
+  background-color: lightgrey;
+}
+
+.interesting {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.animalName {
+  font-size: 25px;
+}
+
+.animalImage {
+  border-radius: 20px;
+  border: 0.5px solid grey;
+}
+
+.animalListItems {
+  list-style: none;
+  padding-left: 10px;
+}
+
+.animalDescription {
+  padding: 10px;
+}
